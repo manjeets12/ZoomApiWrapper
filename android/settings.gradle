@@ -1,1 +1,1 @@
-include ':zoomcommonlib', ':zoommobilertc'
+include ':android-support-v4', ':zoom-common-lib', ':zoom-mobilertc'

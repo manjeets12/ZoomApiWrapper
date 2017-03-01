@@ -32,7 +32,8 @@ repositories {
 
 dependencies {
     compile 'com.facebook.react:react-native:+'
-    compile project(':zoomcommonlib')
-    compile project(':zoommobilertc')
+    compile project(':android-support-v4')
+    compile project(':zoom-common-lib')
+    compile project(':zoom-mobilertc')
 }
   
